@@ -13,3 +13,8 @@ header {
     background-size: 30%;
     height: 90px;
 }
+
+#immagine-logo{
+    height: 50%;
+    padding: 25px 0 0;
+}
