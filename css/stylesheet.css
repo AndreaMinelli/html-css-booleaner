@@ -45,3 +45,15 @@ a{
 figcaption{
     font-size: 10px;
 }
+
+#articolo-principale{
+    text-align: justify;
+}
+
+.important-note{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 17px;
+}
