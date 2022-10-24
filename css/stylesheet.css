@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+.contenitor{
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 161, 255);
+    background-size: 30%;
+    height: 90px;
+}
