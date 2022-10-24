@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+}
+
+#header-container{
+    width: 60%;
+    height: 90px;
+    margin: auto;
+}
+
+#immagine-logo{
+    height: 50%;
+    padding: 25px 0 0;
+}
+.contenitor{
+    width: 60%;
+    margin: auto;
+}
+/* Impostazione dell'header */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 161, 255);
+    background-size: 30%;
+    height: 90px;
+}
+
+/* Titolo articolo */
+#title{
+    margin-bottom: 0;
+}
+
+address{
+    font-style: normal;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+#data{
+    font-size: 10px;
+}
+
+.immagine-titolo{
+    height: 300px;
+    width: 45%;
+    margin-top: 20px;
+}
+
+figcaption{
+    font-size: 10px;
+}
+
+/* Inizio articolo principale */
+#articolo-principale{
+    text-align: justify;
+    font-size: 15px;
+}
+
+.important-note{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 17px;
+}
+
+/* Tabella articolo */
+table{
+    border-spacing: 0;
+    font-size: 12px;
+}
+thead{
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+.short{
+    width: 15%;
+}
+
+.long{
+    width: 40%;
+}
+
+tbody tr:nth-child(odd){
+    background-color: rgb(177, 229, 242);
+}
+
+/* Sezione suggestion */
+
+#suggestion-titol{
+    color: grey;
+}
+
+#suggestion-box1{
+    height: 200px;
+    width: 250px;
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    text-transform: capitalize;
+    color: white;
+}
+
+#suggestion-box1 h3, #suggestion-box2 h3{
+    padding: 10px;
+}
+
+#suggestion-box2{
+    height: 200px;
+    width: 250px;
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    text-transform: capitalize;
+    color: white;
+}
