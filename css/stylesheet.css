@@ -18,3 +18,30 @@ header {
     height: 50%;
     padding: 25px 0 0;
 }
+
+#title{
+    margin-bottom: 0;
+}
+
+address{
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+#data{
+    font-size: 10px;
+}
+
+.immagine-titolo{
+    height: 300px;
+    width: 45%;
+    margin-top: 20px;
+}
+
+figcaption{
+    font-size: 10px;
+}
